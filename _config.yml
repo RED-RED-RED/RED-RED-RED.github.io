@@ -1,5 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minimal
 plugins:
-- jekyll-remote-theme
 title: test[The title of your site]
 description: test2[A short description of your site's purpose]
